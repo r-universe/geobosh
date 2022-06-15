@@ -1,0 +1,46 @@
+[
+  {
+    "package": "Countr",
+    "oncran": true
+  },
+  {
+    "package": "cvar",
+    "oncran": true
+  },
+  {
+    "package": "gbutils",
+    "oncran": true
+  },
+  {
+    "package": "lagged",
+    "oncran": true
+  },
+  {
+    "package": "mcompanion",
+    "oncran": true
+  },
+  {
+    "package": "mixAR",
+    "oncran": true
+  },
+  {
+    "package": "pcts",
+    "oncran": true
+  },
+  {
+    "package": "rbibutils",
+    "oncran": true
+  },
+  {
+    "package": "Rdpack",
+    "oncran": true
+  },
+  {
+    "package": "sarima",
+    "oncran": true
+  },
+  {
+    "package": "uroot",
+    "oncran": true
+  }
+]
