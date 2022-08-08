@@ -40,6 +40,10 @@
     "oncran": true
   },
   {
+    "package": "StableEstim",
+    "oncran": true
+  },
+  {
     "package": "uroot",
     "oncran": true
   }

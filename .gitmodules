@@ -53,6 +53,11 @@
 	url = https://github.com/geobosh/sarima
 	shallow = true
 	registered = true
+[submodule "StableEstim"]
+	path = StableEstim
+	url = https://github.com/geobosh/stableestim
+	shallow = true
+	registered = true
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/geobosh/uroot
