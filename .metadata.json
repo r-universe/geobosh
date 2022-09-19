@@ -16,14 +16,6 @@
     "oncran": true
   },
   {
-    "package": "mcompanion",
-    "oncran": true
-  },
-  {
-    "package": "mixAR",
-    "oncran": true
-  },
-  {
     "package": "pcts",
     "oncran": true
   },

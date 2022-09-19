@@ -23,16 +23,6 @@
 	url = https://github.com/geobosh/lagged
 	shallow = true
 	registered = true
-[submodule "mcompanion"]
-	path = mcompanion
-	url = https://github.com/geobosh/mcompanion
-	shallow = true
-	registered = true
-[submodule "mixAR"]
-	path = mixAR
-	url = https://github.com/geobosh/mixar
-	shallow = true
-	registered = true
 [submodule "pcts"]
 	path = pcts
 	url = https://github.com/geobosh/pcts
