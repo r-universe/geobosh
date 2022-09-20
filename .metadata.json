@@ -20,10 +20,6 @@
     "oncran": true
   },
   {
-    "package": "mixAR",
-    "oncran": true
-  },
-  {
     "package": "pcts",
     "oncran": true
   },
