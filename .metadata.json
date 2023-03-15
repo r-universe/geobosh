@@ -1,10 +1,6 @@
 [
   {
-    "package": "Rdpack",
-    "oncran": true
-  },
-  {
-    "package": "lagged",
+    "package": "Countr",
     "oncran": true
   },
   {
@@ -16,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "Countr",
-    "oncran": true
-  },
-  {
-    "package": "StableEstim",
+    "package": "lagged",
     "oncran": true
   },
   {
@@ -28,15 +20,11 @@
     "oncran": true
   },
   {
-    "package": "sarima",
-    "oncran": true
-  },
-  {
     "package": "mixAR",
     "oncran": true
   },
   {
-    "package": "uroot",
+    "package": "pcts",
     "oncran": true
   },
   {
@@ -44,7 +32,19 @@
     "oncran": true
   },
   {
-    "package": "pcts",
+    "package": "Rdpack",
+    "oncran": true
+  },
+  {
+    "package": "sarima",
+    "oncran": true
+  },
+  {
+    "package": "StableEstim",
+    "oncran": true
+  },
+  {
+    "package": "uroot",
     "oncran": true
   }
 ]

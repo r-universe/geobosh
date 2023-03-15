@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Rdpack"]
-	path = Rdpack
-	url = https://github.com/geobosh/rdpack
-	shallow = true
-	registered = true
-[submodule "lagged"]
-	path = lagged
-	url = https://github.com/geobosh/lagged
+[submodule "Countr"]
+	path = Countr
+	url = https://github.com/geobosh/countr
 	shallow = true
 	registered = true
 [submodule "cvar"]
@@ -23,14 +18,9 @@
 	url = https://github.com/geobosh/gbutils
 	shallow = true
 	registered = true
-[submodule "Countr"]
-	path = Countr
-	url = https://github.com/geobosh/countr
-	shallow = true
-	registered = true
-[submodule "StableEstim"]
-	path = StableEstim
-	url = https://github.com/geobosh/stableestim
+[submodule "lagged"]
+	path = lagged
+	url = https://github.com/geobosh/lagged
 	shallow = true
 	registered = true
 [submodule "mcompanion"]
@@ -38,19 +28,14 @@
 	url = https://github.com/geobosh/mcompanion
 	shallow = true
 	registered = true
-[submodule "sarima"]
-	path = sarima
-	url = https://github.com/geobosh/sarima
-	shallow = true
-	registered = true
 [submodule "mixAR"]
 	path = mixAR
 	url = https://github.com/geobosh/mixar
 	shallow = true
 	registered = true
-[submodule "uroot"]
-	path = uroot
-	url = https://github.com/geobosh/uroot
+[submodule "pcts"]
+	path = pcts
+	url = https://github.com/geobosh/pcts
 	shallow = true
 	registered = true
 [submodule "rbibutils"]
@@ -58,8 +43,23 @@
 	url = https://github.com/geobosh/rbibutils
 	shallow = true
 	registered = true
-[submodule "pcts"]
-	path = pcts
-	url = https://github.com/geobosh/pcts
+[submodule "Rdpack"]
+	path = Rdpack
+	url = https://github.com/geobosh/rdpack
+	shallow = true
+	registered = true
+[submodule "sarima"]
+	path = sarima
+	url = https://github.com/geobosh/sarima
+	shallow = true
+	registered = true
+[submodule "StableEstim"]
+	path = StableEstim
+	url = https://github.com/geobosh/stableestim
+	shallow = true
+	registered = true
+[submodule "uroot"]
+	path = uroot
+	url = https://github.com/geobosh/uroot
 	shallow = true
 	registered = true
