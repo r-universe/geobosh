@@ -1,6 +1,10 @@
 [
   {
-    "package": "Countr",
+    "package": "Rdpack",
+    "oncran": true
+  },
+  {
+    "package": "lagged",
     "oncran": true
   },
   {
@@ -12,31 +16,7 @@
     "oncran": true
   },
   {
-    "package": "lagged",
-    "oncran": true
-  },
-  {
-    "package": "mcompanion",
-    "oncran": true
-  },
-  {
-    "package": "mixAR",
-    "oncran": true
-  },
-  {
-    "package": "pcts",
-    "oncran": true
-  },
-  {
-    "package": "rbibutils",
-    "oncran": true
-  },
-  {
-    "package": "Rdpack",
-    "oncran": true
-  },
-  {
-    "package": "sarima",
+    "package": "Countr",
     "oncran": true
   },
   {
@@ -44,7 +24,27 @@
     "oncran": true
   },
   {
+    "package": "mcompanion",
+    "oncran": true
+  },
+  {
+    "package": "sarima",
+    "oncran": true
+  },
+  {
+    "package": "mixAR",
+    "oncran": true
+  },
+  {
     "package": "uroot",
+    "oncran": true
+  },
+  {
+    "package": "rbibutils",
+    "oncran": true
+  },
+  {
+    "package": "pcts",
     "oncran": true
   }
 ]
