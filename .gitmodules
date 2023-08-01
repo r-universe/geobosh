@@ -5,6 +5,12 @@
 [submodule "Countr"]
 	path = Countr
 	url = https://github.com/geobosh/countr
+[submodule "Rdpack"]
+	path = Rdpack
+	url = https://github.com/geobosh/rdpack
+[submodule "StableEstim"]
+	path = StableEstim
+	url = https://github.com/geobosh/stableestim
 [submodule "cvar"]
 	path = cvar
 	url = https://github.com/geobosh/cvar
@@ -26,15 +32,9 @@
 [submodule "rbibutils"]
 	path = rbibutils
 	url = https://github.com/geobosh/rbibutils
-[submodule "Rdpack"]
-	path = Rdpack
-	url = https://github.com/geobosh/rdpack
 [submodule "sarima"]
 	path = sarima
 	url = https://github.com/geobosh/sarima
-[submodule "StableEstim"]
-	path = StableEstim
-	url = https://github.com/geobosh/stableestim
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/geobosh/uroot
