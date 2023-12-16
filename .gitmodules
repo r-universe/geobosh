@@ -5,6 +5,9 @@
 [submodule "Countr"]
 	path = Countr
 	url = https://github.com/geobosh/countr
+[submodule "FinTS"]
+	path = FinTS
+	url = https://github.com/geobosh/fintsdoc
 [submodule "Rdpack"]
 	path = Rdpack
 	url = https://github.com/geobosh/rdpack
