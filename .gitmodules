@@ -5,6 +5,14 @@
 [submodule "Countr"]
 	path = Countr
 	url = https://github.com/geobosh/countr
+[submodule "FitAR"]
+	path = FitAR
+	url = https://github.com/cran/FitAR
+	registered = false
+[submodule "FitARMA"]
+	path = FitARMA
+	url = https://github.com/cran/FitARMA
+	registered = false
 [submodule "Rdpack"]
 	path = Rdpack
 	url = https://github.com/geobosh/rdpack
