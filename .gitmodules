@@ -14,9 +14,6 @@
 [submodule "cvar"]
 	path = cvar
 	url = https://github.com/geobosh/cvar
-[submodule "fGarch"]
-	path = fGarch
-	url = https://github.com/geobosh/fgarchdoc
 [submodule "gbutils"]
 	path = gbutils
 	url = https://github.com/geobosh/gbutils
